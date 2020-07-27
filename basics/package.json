@@ -1,0 +1,26 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Understanding TypeScript",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MParoczi/TypeScript-Learning.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Márk Paróczi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MParoczi/TypeScript-Learning/issues"
+  },
+  "homepage": "https://github.com/MParoczi/TypeScript-Learning#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
