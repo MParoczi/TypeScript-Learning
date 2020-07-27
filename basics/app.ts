@@ -9,8 +9,11 @@ function add(n1: number, n2: number, showResult: boolean, phrase: string) {
   }
 }
 
-const number1 = "5";
+let number1: number;
+number1 = 5;
 const number2 = 2.8;
+let number3: number = 8;
+const number4: number = -9;
 const printResult = true;
 const resultPhrase = "Result is: ";
 
